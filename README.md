@@ -5,7 +5,7 @@
 - 初始化
 `npm i`
 - 启动
-`npm run dev`
+`npm run docs:dev`
 
 - 首页
 ![6220760_4340cf54-e298-4fe0-a199-eba35fd37ed9](https://github.com/user-attachments/assets/164334c1-45ce-4f28-9444-08e88eb889d9)
