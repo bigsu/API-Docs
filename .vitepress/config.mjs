@@ -6,7 +6,7 @@ export default defineConfig({
   base: '/API-Docs/',
   title: "元宇宙服务接口文档",
   description: "元宇宙服务接口文档",
-  head: [['link', { rel: 'icon', href: '/images/logo.png' }]],
+  head: [['link', { rel: 'icon', href: '/API-Docs/images/logo.png' }]],
   lang: 'zh-CN',
   // 是否显示更新时间
   lastUpdated: true,
