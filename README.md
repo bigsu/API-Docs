@@ -1,6 +1,7 @@
 # VitePress + Vue + Element Plus + API Request Example
 使用VitePress搭建的文档平台，集成了 Vue + Element Plus + API接口请求的示例
-启动
+
+- 启动
 `npm run dev` 
 
 ![6220760_4340cf54-e298-4fe0-a199-eba35fd37ed9](https://github.com/user-attachments/assets/164334c1-45ce-4f28-9444-08e88eb889d9)
