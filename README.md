@@ -2,6 +2,8 @@
 > 使用VitePress搭建的文档平台，集成了 Vue + Element Plus + API接口请求的示例
 > 修改了部分样式，加入了侧边栏自动获取
 
+- 初始化
+`npm i`
 - 启动
 `npm run dev`
 
