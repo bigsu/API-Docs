@@ -3,6 +3,7 @@ import { set_sidebar } from "../utils/auto_sidebar.mjs";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/API-Docs/',
   title: "元宇宙服务接口文档",
   description: "元宇宙服务接口文档",
   head: [['link', { rel: 'icon', href: '/images/logo.png' }]],
