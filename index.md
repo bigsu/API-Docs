@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "元宇宙服务接口文档"
+  name: "数据服务接口文档"
   text: "Metaverse Service"
   tagline: 探索未知 连接未来，让数据点亮世界
   image:
