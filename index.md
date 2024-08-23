@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "数据服务接口文档"
-  text: "Metaverse Service"
+  text: "Data Service Docs"
   tagline: 探索未知 连接未来，让数据点亮世界
   image:
     src: /images/home.svg
