@@ -19,11 +19,11 @@ export default defineConfig({
     darkModeSwitchLabel: '外观',
     returnToTopLabel: '返回顶部',
     docFooter: {
-      prev: '上一篇',
-      next: '下一篇'
+      prev: '上一页',
+      next: '下一页'
     },
     lastUpdatedText: "最后更新",
-    outlineTitle: "文章目录",
+    outlineTitle: "页面导航",
     sidebarMenuLabel: '菜单',
     search: {
       provider: 'local',
